@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "python-challenge",
+			"path": "../../../python-challenge"
+		},
+		{
+			"name": "1",
+			"path": "../../../COLUMBIA_BOOTCAMP/CU-VIRT-DATA-PT-02-2024-U-LOLC/03-Python/1"
+		},
+		{
+			"name": "2",
+			"path": "../../../COLUMBIA_BOOTCAMP/CU-VIRT-DATA-PT-02-2024-U-LOLC/03-Python/2"
+		},
+		{
+			"name": "3",
+			"path": "../../../COLUMBIA_BOOTCAMP/CU-VIRT-DATA-PT-02-2024-U-LOLC/03-Python/3"
+		}
+	],
+	"settings": {}
+}
